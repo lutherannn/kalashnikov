@@ -22,8 +22,6 @@
 hs_err_pid*
 replay_pid*
 
-src/META-INF/
 .idea/
 *.iml
 out/production
-out/META-INF/
