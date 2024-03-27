@@ -25,4 +25,4 @@ replay_pid*
 .idea/
 *.iml
 out/production/*
-!out/production/kalashnikov/com/kalashnikov/META-INF/*
+!out/production/kalashnikov/META-INF
